@@ -1,7 +1,13 @@
 # notepad-plus
 C# windows forms notepad app
 
+This is notepad app for working with documents.
 
+____
+### Hot keys
+ - Ctrl + S to save document.
+ - Ctrl + N to create new document in this window.
+ - Alt + F4 to close this window.
 ____
 ### _Build process_
 Windows
