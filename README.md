@@ -7,11 +7,17 @@ This is notepad app for working with documents.
  - Bold font
  - Italic font
  - Underline text
- - Set font
  - Crossed out text
+ - Set font
  - Create new document
  - Save document
  - Open document
+<p align="center">
+  <img src="https://github.com/Lulu-fw01/notepad-plus/blob/main/screenshots/2022-06-02_14-50-51.png">
+  <p>
+  <img src="https://github.com/Lulu-fw01/notepad-plus/blob/main/screenshots/2022-06-02_14-52-29.png">
+</p>
+
 ____
 ### Hot keys
  - Ctrl + S to save document.
