@@ -3,6 +3,15 @@ C# windows forms notepad app
 
 This is notepad app for working with documents.
 
+### Functions
+ - Bold font
+ - Italic font
+ - Underline text
+ - Set font
+ - Crossed out text
+ - Create new document
+ - Save document
+ - Open document
 ____
 ### Hot keys
  - Ctrl + S to save document.
